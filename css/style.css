@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Galada&display=swap");
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/cards.css");
+
+body {
+  font-family: 'Dancing Script', cursive;
+  color: #404042;
+  font-size: 18px;
+}
+
+h1, h2, h3 {
+  font-family: 'Galada', cursive;
+}
+
+a {
+  color: white;
+  font-weight: bold;
+  text-decoration: none;
+  transition: .3s;
+}
+
+a:hover {
+  color: maroon;
+}
+
+p {
+  color: white;
+  opacity: .9;
+}
